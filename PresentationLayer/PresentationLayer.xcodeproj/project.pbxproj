@@ -15,6 +15,48 @@
 		4C4F455B1E4372C40073CF80 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4C4F45591E4372C40073CF80 /* LaunchScreen.storyboard */; };
 		4C4F45661E4372C40073CF80 /* PresentationLayerTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C4F45651E4372C40073CF80 /* PresentationLayerTests.m */; };
 		4C4F45711E4372C40073CF80 /* PresentationLayerUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C4F45701E4372C40073CF80 /* PresentationLayerUITests.m */; };
+		4CFBC4771E4616CA00DFA8C7 /* archery.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CFBC44D1E4616C900DFA8C7 /* archery.gif */; };
+		4CFBC4781E4616CA00DFA8C7 /* athletics.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CFBC44E1E4616C900DFA8C7 /* athletics.gif */; };
+		4CFBC4791E4616CA00DFA8C7 /* badminton.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CFBC44F1E4616C900DFA8C7 /* badminton.gif */; };
+		4CFBC47A1E4616CA00DFA8C7 /* basketball.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CFBC4501E4616C900DFA8C7 /* basketball.gif */; };
+		4CFBC47B1E4616CA00DFA8C7 /* beach-volleyball.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CFBC4511E4616C900DFA8C7 /* beach-volleyball.gif */; };
+		4CFBC47C1E4616CA00DFA8C7 /* boxing.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CFBC4521E4616C900DFA8C7 /* boxing.gif */; };
+		4CFBC47D1E4616CA00DFA8C7 /* canoe-slalom.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CFBC4531E4616C900DFA8C7 /* canoe-slalom.gif */; };
+		4CFBC47E1E4616CA00DFA8C7 /* canoe-sprint.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CFBC4541E4616C900DFA8C7 /* canoe-sprint.gif */; };
+		4CFBC47F1E4616CA00DFA8C7 /* cycling-bmx.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CFBC4551E4616C900DFA8C7 /* cycling-bmx.gif */; };
+		4CFBC4801E4616CA00DFA8C7 /* cycling-mountain-bike.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CFBC4561E4616C900DFA8C7 /* cycling-mountain-bike.gif */; };
+		4CFBC4811E4616CA00DFA8C7 /* cycling-road.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CFBC4571E4616C900DFA8C7 /* cycling-road.gif */; };
+		4CFBC4821E4616CA00DFA8C7 /* cycling-track.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CFBC4581E4616C900DFA8C7 /* cycling-track.gif */; };
+		4CFBC4831E4616CA00DFA8C7 /* diving.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CFBC4591E4616C900DFA8C7 /* diving.gif */; };
+		4CFBC4841E4616CA00DFA8C7 /* equestrian-dressage.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CFBC45A1E4616C900DFA8C7 /* equestrian-dressage.gif */; };
+		4CFBC4851E4616CA00DFA8C7 /* equestrian-eventing.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CFBC45B1E4616C900DFA8C7 /* equestrian-eventing.gif */; };
+		4CFBC4861E4616CA00DFA8C7 /* equestrian-jumping.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CFBC45C1E4616C900DFA8C7 /* equestrian-jumping.gif */; };
+		4CFBC4871E4616CA00DFA8C7 /* fencing.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CFBC45D1E4616C900DFA8C7 /* fencing.gif */; };
+		4CFBC4881E4616CA00DFA8C7 /* football.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CFBC45E1E4616C900DFA8C7 /* football.gif */; };
+		4CFBC4891E4616CA00DFA8C7 /* ganlanqiu.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CFBC45F1E4616C900DFA8C7 /* ganlanqiu.gif */; };
+		4CFBC48A1E4616CA00DFA8C7 /* gaoerfu.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CFBC4601E4616C900DFA8C7 /* gaoerfu.gif */; };
+		4CFBC48B1E4616CA00DFA8C7 /* golf.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CFBC4611E4616C900DFA8C7 /* golf.gif */; };
+		4CFBC48C1E4616CA00DFA8C7 /* gymnastics-artistic.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CFBC4621E4616C900DFA8C7 /* gymnastics-artistic.gif */; };
+		4CFBC48D1E4616CA00DFA8C7 /* gymnastics-rhythmic.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CFBC4631E4616C900DFA8C7 /* gymnastics-rhythmic.gif */; };
+		4CFBC48E1E4616CA00DFA8C7 /* gymnastics-trampoline.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CFBC4641E4616C900DFA8C7 /* gymnastics-trampoline.gif */; };
+		4CFBC48F1E4616CA00DFA8C7 /* handball.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CFBC4651E4616C900DFA8C7 /* handball.gif */; };
+		4CFBC4901E4616CA00DFA8C7 /* hockey.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CFBC4661E4616C900DFA8C7 /* hockey.gif */; };
+		4CFBC4911E4616CA00DFA8C7 /* judo.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CFBC4671E4616C900DFA8C7 /* judo.gif */; };
+		4CFBC4921E4616CA00DFA8C7 /* modern-pentathlon.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CFBC4681E4616C900DFA8C7 /* modern-pentathlon.gif */; };
+		4CFBC4931E4616CA00DFA8C7 /* rowing.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CFBC4691E4616CA00DFA8C7 /* rowing.gif */; };
+		4CFBC4941E4616CA00DFA8C7 /* rugby.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CFBC46A1E4616CA00DFA8C7 /* rugby.gif */; };
+		4CFBC4951E4616CA00DFA8C7 /* sailing.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CFBC46B1E4616CA00DFA8C7 /* sailing.gif */; };
+		4CFBC4961E4616CA00DFA8C7 /* shooting.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CFBC46C1E4616CA00DFA8C7 /* shooting.gif */; };
+		4CFBC4971E4616CA00DFA8C7 /* swimming.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CFBC46D1E4616CA00DFA8C7 /* swimming.gif */; };
+		4CFBC4981E4616CA00DFA8C7 /* synchronised-swimming.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CFBC46E1E4616CA00DFA8C7 /* synchronised-swimming.gif */; };
+		4CFBC4991E4616CA00DFA8C7 /* table-tennis.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CFBC46F1E4616CA00DFA8C7 /* table-tennis.gif */; };
+		4CFBC49A1E4616CA00DFA8C7 /* taekwondo.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CFBC4701E4616CA00DFA8C7 /* taekwondo.gif */; };
+		4CFBC49B1E4616CA00DFA8C7 /* tennis.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CFBC4711E4616CA00DFA8C7 /* tennis.gif */; };
+		4CFBC49C1E4616CA00DFA8C7 /* triathlon.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CFBC4721E4616CA00DFA8C7 /* triathlon.gif */; };
+		4CFBC49D1E4616CA00DFA8C7 /* volleyball.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CFBC4731E4616CA00DFA8C7 /* volleyball.gif */; };
+		4CFBC49E1E4616CA00DFA8C7 /* water-polo.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CFBC4741E4616CA00DFA8C7 /* water-polo.gif */; };
+		4CFBC49F1E4616CA00DFA8C7 /* weightlifting.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CFBC4751E4616CA00DFA8C7 /* weightlifting.gif */; };
+		4CFBC4A01E4616CA00DFA8C7 /* wrestling.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CFBC4761E4616CA00DFA8C7 /* wrestling.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +93,48 @@
 		4C4F456C1E4372C40073CF80 /* PresentationLayerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PresentationLayerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4C4F45701E4372C40073CF80 /* PresentationLayerUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PresentationLayerUITests.m; sourceTree = "<group>"; };
 		4C4F45721E4372C40073CF80 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4CFBC44D1E4616C900DFA8C7 /* archery.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = archery.gif; sourceTree = "<group>"; };
+		4CFBC44E1E4616C900DFA8C7 /* athletics.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = athletics.gif; sourceTree = "<group>"; };
+		4CFBC44F1E4616C900DFA8C7 /* badminton.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = badminton.gif; sourceTree = "<group>"; };
+		4CFBC4501E4616C900DFA8C7 /* basketball.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = basketball.gif; sourceTree = "<group>"; };
+		4CFBC4511E4616C900DFA8C7 /* beach-volleyball.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "beach-volleyball.gif"; sourceTree = "<group>"; };
+		4CFBC4521E4616C900DFA8C7 /* boxing.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = boxing.gif; sourceTree = "<group>"; };
+		4CFBC4531E4616C900DFA8C7 /* canoe-slalom.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "canoe-slalom.gif"; sourceTree = "<group>"; };
+		4CFBC4541E4616C900DFA8C7 /* canoe-sprint.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "canoe-sprint.gif"; sourceTree = "<group>"; };
+		4CFBC4551E4616C900DFA8C7 /* cycling-bmx.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "cycling-bmx.gif"; sourceTree = "<group>"; };
+		4CFBC4561E4616C900DFA8C7 /* cycling-mountain-bike.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "cycling-mountain-bike.gif"; sourceTree = "<group>"; };
+		4CFBC4571E4616C900DFA8C7 /* cycling-road.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "cycling-road.gif"; sourceTree = "<group>"; };
+		4CFBC4581E4616C900DFA8C7 /* cycling-track.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "cycling-track.gif"; sourceTree = "<group>"; };
+		4CFBC4591E4616C900DFA8C7 /* diving.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = diving.gif; sourceTree = "<group>"; };
+		4CFBC45A1E4616C900DFA8C7 /* equestrian-dressage.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "equestrian-dressage.gif"; sourceTree = "<group>"; };
+		4CFBC45B1E4616C900DFA8C7 /* equestrian-eventing.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "equestrian-eventing.gif"; sourceTree = "<group>"; };
+		4CFBC45C1E4616C900DFA8C7 /* equestrian-jumping.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "equestrian-jumping.gif"; sourceTree = "<group>"; };
+		4CFBC45D1E4616C900DFA8C7 /* fencing.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = fencing.gif; sourceTree = "<group>"; };
+		4CFBC45E1E4616C900DFA8C7 /* football.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = football.gif; sourceTree = "<group>"; };
+		4CFBC45F1E4616C900DFA8C7 /* ganlanqiu.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = ganlanqiu.gif; sourceTree = "<group>"; };
+		4CFBC4601E4616C900DFA8C7 /* gaoerfu.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = gaoerfu.gif; sourceTree = "<group>"; };
+		4CFBC4611E4616C900DFA8C7 /* golf.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = golf.gif; sourceTree = "<group>"; };
+		4CFBC4621E4616C900DFA8C7 /* gymnastics-artistic.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "gymnastics-artistic.gif"; sourceTree = "<group>"; };
+		4CFBC4631E4616C900DFA8C7 /* gymnastics-rhythmic.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "gymnastics-rhythmic.gif"; sourceTree = "<group>"; };
+		4CFBC4641E4616C900DFA8C7 /* gymnastics-trampoline.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "gymnastics-trampoline.gif"; sourceTree = "<group>"; };
+		4CFBC4651E4616C900DFA8C7 /* handball.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = handball.gif; sourceTree = "<group>"; };
+		4CFBC4661E4616C900DFA8C7 /* hockey.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = hockey.gif; sourceTree = "<group>"; };
+		4CFBC4671E4616C900DFA8C7 /* judo.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = judo.gif; sourceTree = "<group>"; };
+		4CFBC4681E4616C900DFA8C7 /* modern-pentathlon.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "modern-pentathlon.gif"; sourceTree = "<group>"; };
+		4CFBC4691E4616CA00DFA8C7 /* rowing.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = rowing.gif; sourceTree = "<group>"; };
+		4CFBC46A1E4616CA00DFA8C7 /* rugby.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = rugby.gif; sourceTree = "<group>"; };
+		4CFBC46B1E4616CA00DFA8C7 /* sailing.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = sailing.gif; sourceTree = "<group>"; };
+		4CFBC46C1E4616CA00DFA8C7 /* shooting.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = shooting.gif; sourceTree = "<group>"; };
+		4CFBC46D1E4616CA00DFA8C7 /* swimming.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = swimming.gif; sourceTree = "<group>"; };
+		4CFBC46E1E4616CA00DFA8C7 /* synchronised-swimming.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "synchronised-swimming.gif"; sourceTree = "<group>"; };
+		4CFBC46F1E4616CA00DFA8C7 /* table-tennis.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "table-tennis.gif"; sourceTree = "<group>"; };
+		4CFBC4701E4616CA00DFA8C7 /* taekwondo.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = taekwondo.gif; sourceTree = "<group>"; };
+		4CFBC4711E4616CA00DFA8C7 /* tennis.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = tennis.gif; sourceTree = "<group>"; };
+		4CFBC4721E4616CA00DFA8C7 /* triathlon.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = triathlon.gif; sourceTree = "<group>"; };
+		4CFBC4731E4616CA00DFA8C7 /* volleyball.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = volleyball.gif; sourceTree = "<group>"; };
+		4CFBC4741E4616CA00DFA8C7 /* water-polo.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "water-polo.gif"; sourceTree = "<group>"; };
+		4CFBC4751E4616CA00DFA8C7 /* weightlifting.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = weightlifting.gif; sourceTree = "<group>"; };
+		4CFBC4761E4616CA00DFA8C7 /* wrestling.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = wrestling.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +185,7 @@
 		4C4F454A1E4372C40073CF80 /* PresentationLayer */ = {
 			isa = PBXGroup;
 			children = (
+				4CFBC44C1E4616B200DFA8C7 /* events */,
 				4C4F454E1E4372C40073CF80 /* AppDelegate.h */,
 				4C4F454F1E4372C40073CF80 /* AppDelegate.m */,
 				4C4F45511E4372C40073CF80 /* ViewController.h */,
@@ -138,6 +223,55 @@
 				4C4F45721E4372C40073CF80 /* Info.plist */,
 			);
 			path = PresentationLayerUITests;
+			sourceTree = "<group>";
+		};
+		4CFBC44C1E4616B200DFA8C7 /* events */ = {
+			isa = PBXGroup;
+			children = (
+				4CFBC44D1E4616C900DFA8C7 /* archery.gif */,
+				4CFBC44E1E4616C900DFA8C7 /* athletics.gif */,
+				4CFBC44F1E4616C900DFA8C7 /* badminton.gif */,
+				4CFBC4501E4616C900DFA8C7 /* basketball.gif */,
+				4CFBC4511E4616C900DFA8C7 /* beach-volleyball.gif */,
+				4CFBC4521E4616C900DFA8C7 /* boxing.gif */,
+				4CFBC4531E4616C900DFA8C7 /* canoe-slalom.gif */,
+				4CFBC4541E4616C900DFA8C7 /* canoe-sprint.gif */,
+				4CFBC4551E4616C900DFA8C7 /* cycling-bmx.gif */,
+				4CFBC4561E4616C900DFA8C7 /* cycling-mountain-bike.gif */,
+				4CFBC4571E4616C900DFA8C7 /* cycling-road.gif */,
+				4CFBC4581E4616C900DFA8C7 /* cycling-track.gif */,
+				4CFBC4591E4616C900DFA8C7 /* diving.gif */,
+				4CFBC45A1E4616C900DFA8C7 /* equestrian-dressage.gif */,
+				4CFBC45B1E4616C900DFA8C7 /* equestrian-eventing.gif */,
+				4CFBC45C1E4616C900DFA8C7 /* equestrian-jumping.gif */,
+				4CFBC45D1E4616C900DFA8C7 /* fencing.gif */,
+				4CFBC45E1E4616C900DFA8C7 /* football.gif */,
+				4CFBC45F1E4616C900DFA8C7 /* ganlanqiu.gif */,
+				4CFBC4601E4616C900DFA8C7 /* gaoerfu.gif */,
+				4CFBC4611E4616C900DFA8C7 /* golf.gif */,
+				4CFBC4621E4616C900DFA8C7 /* gymnastics-artistic.gif */,
+				4CFBC4631E4616C900DFA8C7 /* gymnastics-rhythmic.gif */,
+				4CFBC4641E4616C900DFA8C7 /* gymnastics-trampoline.gif */,
+				4CFBC4651E4616C900DFA8C7 /* handball.gif */,
+				4CFBC4661E4616C900DFA8C7 /* hockey.gif */,
+				4CFBC4671E4616C900DFA8C7 /* judo.gif */,
+				4CFBC4681E4616C900DFA8C7 /* modern-pentathlon.gif */,
+				4CFBC4691E4616CA00DFA8C7 /* rowing.gif */,
+				4CFBC46A1E4616CA00DFA8C7 /* rugby.gif */,
+				4CFBC46B1E4616CA00DFA8C7 /* sailing.gif */,
+				4CFBC46C1E4616CA00DFA8C7 /* shooting.gif */,
+				4CFBC46D1E4616CA00DFA8C7 /* swimming.gif */,
+				4CFBC46E1E4616CA00DFA8C7 /* synchronised-swimming.gif */,
+				4CFBC46F1E4616CA00DFA8C7 /* table-tennis.gif */,
+				4CFBC4701E4616CA00DFA8C7 /* taekwondo.gif */,
+				4CFBC4711E4616CA00DFA8C7 /* tennis.gif */,
+				4CFBC4721E4616CA00DFA8C7 /* triathlon.gif */,
+				4CFBC4731E4616CA00DFA8C7 /* volleyball.gif */,
+				4CFBC4741E4616CA00DFA8C7 /* water-polo.gif */,
+				4CFBC4751E4616CA00DFA8C7 /* weightlifting.gif */,
+				4CFBC4761E4616CA00DFA8C7 /* wrestling.gif */,
+			);
+			name = events;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -243,9 +377,51 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4CFBC4861E4616CA00DFA8C7 /* equestrian-jumping.gif in Resources */,
+				4CFBC4871E4616CA00DFA8C7 /* fencing.gif in Resources */,
+				4CFBC4921E4616CA00DFA8C7 /* modern-pentathlon.gif in Resources */,
+				4CFBC4941E4616CA00DFA8C7 /* rugby.gif in Resources */,
+				4CFBC48F1E4616CA00DFA8C7 /* handball.gif in Resources */,
+				4CFBC4931E4616CA00DFA8C7 /* rowing.gif in Resources */,
+				4CFBC49A1E4616CA00DFA8C7 /* taekwondo.gif in Resources */,
+				4CFBC48E1E4616CA00DFA8C7 /* gymnastics-trampoline.gif in Resources */,
+				4CFBC49D1E4616CA00DFA8C7 /* volleyball.gif in Resources */,
+				4CFBC49C1E4616CA00DFA8C7 /* triathlon.gif in Resources */,
+				4CFBC47F1E4616CA00DFA8C7 /* cycling-bmx.gif in Resources */,
+				4CFBC4851E4616CA00DFA8C7 /* equestrian-eventing.gif in Resources */,
+				4CFBC48B1E4616CA00DFA8C7 /* golf.gif in Resources */,
+				4CFBC4821E4616CA00DFA8C7 /* cycling-track.gif in Resources */,
+				4CFBC49F1E4616CA00DFA8C7 /* weightlifting.gif in Resources */,
+				4CFBC4971E4616CA00DFA8C7 /* swimming.gif in Resources */,
 				4C4F455B1E4372C40073CF80 /* LaunchScreen.storyboard in Resources */,
+				4CFBC48A1E4616CA00DFA8C7 /* gaoerfu.gif in Resources */,
+				4CFBC4901E4616CA00DFA8C7 /* hockey.gif in Resources */,
+				4CFBC49E1E4616CA00DFA8C7 /* water-polo.gif in Resources */,
+				4CFBC47A1E4616CA00DFA8C7 /* basketball.gif in Resources */,
+				4CFBC4981E4616CA00DFA8C7 /* synchronised-swimming.gif in Resources */,
+				4CFBC4841E4616CA00DFA8C7 /* equestrian-dressage.gif in Resources */,
+				4CFBC4801E4616CA00DFA8C7 /* cycling-mountain-bike.gif in Resources */,
+				4CFBC4891E4616CA00DFA8C7 /* ganlanqiu.gif in Resources */,
+				4CFBC47C1E4616CA00DFA8C7 /* boxing.gif in Resources */,
+				4CFBC4A01E4616CA00DFA8C7 /* wrestling.gif in Resources */,
+				4CFBC4781E4616CA00DFA8C7 /* athletics.gif in Resources */,
+				4CFBC49B1E4616CA00DFA8C7 /* tennis.gif in Resources */,
+				4CFBC48C1E4616CA00DFA8C7 /* gymnastics-artistic.gif in Resources */,
+				4CFBC47E1E4616CA00DFA8C7 /* canoe-sprint.gif in Resources */,
+				4CFBC4771E4616CA00DFA8C7 /* archery.gif in Resources */,
+				4CFBC47D1E4616CA00DFA8C7 /* canoe-slalom.gif in Resources */,
+				4CFBC4791E4616CA00DFA8C7 /* badminton.gif in Resources */,
+				4CFBC4911E4616CA00DFA8C7 /* judo.gif in Resources */,
+				4CFBC4811E4616CA00DFA8C7 /* cycling-road.gif in Resources */,
 				4C4F45581E4372C40073CF80 /* Assets.xcassets in Resources */,
+				4CFBC4991E4616CA00DFA8C7 /* table-tennis.gif in Resources */,
+				4CFBC4951E4616CA00DFA8C7 /* sailing.gif in Resources */,
+				4CFBC4961E4616CA00DFA8C7 /* shooting.gif in Resources */,
+				4CFBC47B1E4616CA00DFA8C7 /* beach-volleyball.gif in Resources */,
+				4CFBC48D1E4616CA00DFA8C7 /* gymnastics-rhythmic.gif in Resources */,
 				4C4F45561E4372C40073CF80 /* Main.storyboard in Resources */,
+				4CFBC4831E4616CA00DFA8C7 /* diving.gif in Resources */,
+				4CFBC4881E4616CA00DFA8C7 /* football.gif in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -498,6 +674,7 @@
 				4C4F45771E4372C40073CF80 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4C4F45781E4372C40073CF80 /* Build configuration list for PBXNativeTarget "PresentationLayerTests" */ = {
 			isa = XCConfigurationList;
@@ -506,6 +683,7 @@
 				4C4F457A1E4372C40073CF80 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4C4F457B1E4372C40073CF80 /* Build configuration list for PBXNativeTarget "PresentationLayerUITests" */ = {
 			isa = XCConfigurationList;
@@ -514,6 +692,7 @@
 				4C4F457D1E4372C40073CF80 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

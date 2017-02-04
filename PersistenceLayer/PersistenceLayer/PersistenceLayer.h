@@ -1,6 +1,5 @@
 //
-//  PersistenceLayer.h I love Oc
-                       U love Swift
+//  PersistenceLayer.h
 //  PersistenceLayer
 //
 //  Created by adam on 2017/2/2.
