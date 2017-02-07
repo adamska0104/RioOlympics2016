@@ -1,14 +1,13 @@
 //
-//  EventsViewController.m
+//  ScheduleViewController.m
 //  PresentationLayer
 //
 //  Created by adam on 2017/2/7.
 //  Copyright © 2017年 ark. All rights reserved.
 //
 
-#import "EventsViewController.h"
+#import "ScheduleViewController.h"
 
-
-@implementation EventsViewController
+@implementation ScheduleViewController
 
 @end

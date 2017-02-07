@@ -7,14 +7,20 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4C3D29A21E497B9900D19837 /* EventsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C3D29A11E497B9900D19837 /* EventsViewController.m */; };
+		4C3D29A51E497D1800D19837 /* EventsDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C3D29A41E497D1800D19837 /* EventsDetailViewController.m */; };
+		4C3D29A81E497DDB00D19837 /* EventsViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C3D29A71E497DDB00D19837 /* EventsViewCell.m */; };
+		4C3D29AB1E49B1B900D19837 /* ScheduleViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C3D29AA1E49B1B900D19837 /* ScheduleViewController.m */; };
+		4C3D29AE1E49B45B00D19837 /* AboutViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C3D29AD1E49B45B00D19837 /* AboutViewController.m */; };
+		4C3D29B11E49B47C00D19837 /* CountDownViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C3D29B01E49B47C00D19837 /* CountDownViewController.m */; };
 		4C4F454D1E4372C40073CF80 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C4F454C1E4372C40073CF80 /* main.m */; };
 		4C4F45501E4372C40073CF80 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C4F454F1E4372C40073CF80 /* AppDelegate.m */; };
 		4C4F45531E4372C40073CF80 /* HomeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C4F45521E4372C40073CF80 /* HomeViewController.m */; };
 		4C4F45561E4372C40073CF80 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4C4F45541E4372C40073CF80 /* Main.storyboard */; };
-		4C4F45581E4372C40073CF80 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4C4F45571E4372C40073CF80 /* Assets.xcassets */; };
 		4C4F455B1E4372C40073CF80 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4C4F45591E4372C40073CF80 /* LaunchScreen.storyboard */; };
 		4C4F45661E4372C40073CF80 /* PresentationLayerTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C4F45651E4372C40073CF80 /* PresentationLayerTests.m */; };
 		4C4F45711E4372C40073CF80 /* PresentationLayerUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C4F45701E4372C40073CF80 /* PresentationLayerUITests.m */; };
+		4C7FA63E1E476E9800C29145 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4C7FA63D1E476E9800C29145 /* Assets.xcassets */; };
 		4CFBC4771E4616CA00DFA8C7 /* archery.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CFBC44D1E4616C900DFA8C7 /* archery.gif */; };
 		4CFBC4781E4616CA00DFA8C7 /* athletics.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CFBC44E1E4616C900DFA8C7 /* athletics.gif */; };
 		4CFBC4791E4616CA00DFA8C7 /* badminton.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CFBC44F1E4616C900DFA8C7 /* badminton.gif */; };
@@ -57,7 +63,6 @@
 		4CFBC49E1E4616CA00DFA8C7 /* water-polo.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CFBC4741E4616CA00DFA8C7 /* water-polo.gif */; };
 		4CFBC49F1E4616CA00DFA8C7 /* weightlifting.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CFBC4751E4616CA00DFA8C7 /* weightlifting.gif */; };
 		4CFBC4A01E4616CA00DFA8C7 /* wrestling.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CFBC4761E4616CA00DFA8C7 /* wrestling.gif */; };
-		4CFBC4A31E4619AB00DFA8C7 /* EventsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4CFBC4A21E4619AB00DFA8C7 /* EventsViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -78,6 +83,18 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		4C3D29A01E497B9900D19837 /* EventsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EventsViewController.h; sourceTree = "<group>"; };
+		4C3D29A11E497B9900D19837 /* EventsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EventsViewController.m; sourceTree = "<group>"; };
+		4C3D29A31E497D1800D19837 /* EventsDetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EventsDetailViewController.h; sourceTree = "<group>"; };
+		4C3D29A41E497D1800D19837 /* EventsDetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EventsDetailViewController.m; sourceTree = "<group>"; };
+		4C3D29A61E497DDB00D19837 /* EventsViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EventsViewCell.h; sourceTree = "<group>"; };
+		4C3D29A71E497DDB00D19837 /* EventsViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EventsViewCell.m; sourceTree = "<group>"; };
+		4C3D29A91E49B1B900D19837 /* ScheduleViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ScheduleViewController.h; sourceTree = "<group>"; };
+		4C3D29AA1E49B1B900D19837 /* ScheduleViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ScheduleViewController.m; sourceTree = "<group>"; };
+		4C3D29AC1E49B45B00D19837 /* AboutViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AboutViewController.h; sourceTree = "<group>"; };
+		4C3D29AD1E49B45B00D19837 /* AboutViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AboutViewController.m; sourceTree = "<group>"; };
+		4C3D29AF1E49B47C00D19837 /* CountDownViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CountDownViewController.h; sourceTree = "<group>"; };
+		4C3D29B01E49B47C00D19837 /* CountDownViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CountDownViewController.m; sourceTree = "<group>"; };
 		4C4F45481E4372C40073CF80 /* PresentationLayer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PresentationLayer.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4C4F454C1E4372C40073CF80 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		4C4F454E1E4372C40073CF80 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -85,7 +102,6 @@
 		4C4F45511E4372C40073CF80 /* HomeViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HomeViewController.h; sourceTree = "<group>"; };
 		4C4F45521E4372C40073CF80 /* HomeViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HomeViewController.m; sourceTree = "<group>"; };
 		4C4F45551E4372C40073CF80 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		4C4F45571E4372C40073CF80 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4C4F455A1E4372C40073CF80 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4C4F455C1E4372C40073CF80 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4C4F45611E4372C40073CF80 /* PresentationLayerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PresentationLayerTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -94,6 +110,7 @@
 		4C4F456C1E4372C40073CF80 /* PresentationLayerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PresentationLayerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4C4F45701E4372C40073CF80 /* PresentationLayerUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PresentationLayerUITests.m; sourceTree = "<group>"; };
 		4C4F45721E4372C40073CF80 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4C7FA63D1E476E9800C29145 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4CFBC44D1E4616C900DFA8C7 /* archery.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = archery.gif; sourceTree = "<group>"; };
 		4CFBC44E1E4616C900DFA8C7 /* athletics.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = athletics.gif; sourceTree = "<group>"; };
 		4CFBC44F1E4616C900DFA8C7 /* badminton.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = badminton.gif; sourceTree = "<group>"; };
@@ -136,8 +153,6 @@
 		4CFBC4741E4616CA00DFA8C7 /* water-polo.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "water-polo.gif"; sourceTree = "<group>"; };
 		4CFBC4751E4616CA00DFA8C7 /* weightlifting.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = weightlifting.gif; sourceTree = "<group>"; };
 		4CFBC4761E4616CA00DFA8C7 /* wrestling.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = wrestling.gif; sourceTree = "<group>"; };
-		4CFBC4A11E4619AB00DFA8C7 /* EventsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EventsViewController.h; sourceTree = "<group>"; };
-		4CFBC4A21E4619AB00DFA8C7 /* EventsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EventsViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -191,12 +206,22 @@
 				4CFBC44C1E4616B200DFA8C7 /* events */,
 				4C4F454E1E4372C40073CF80 /* AppDelegate.h */,
 				4C4F454F1E4372C40073CF80 /* AppDelegate.m */,
+				4C3D29A61E497DDB00D19837 /* EventsViewCell.h */,
+				4C3D29A71E497DDB00D19837 /* EventsViewCell.m */,
+				4C3D29A01E497B9900D19837 /* EventsViewController.h */,
+				4C3D29A11E497B9900D19837 /* EventsViewController.m */,
+				4C3D29A31E497D1800D19837 /* EventsDetailViewController.h */,
+				4C3D29A41E497D1800D19837 /* EventsDetailViewController.m */,
+				4C3D29A91E49B1B900D19837 /* ScheduleViewController.h */,
+				4C3D29AA1E49B1B900D19837 /* ScheduleViewController.m */,
+				4C3D29AC1E49B45B00D19837 /* AboutViewController.h */,
+				4C3D29AD1E49B45B00D19837 /* AboutViewController.m */,
+				4C3D29AF1E49B47C00D19837 /* CountDownViewController.h */,
+				4C3D29B01E49B47C00D19837 /* CountDownViewController.m */,
 				4C4F45511E4372C40073CF80 /* HomeViewController.h */,
 				4C4F45521E4372C40073CF80 /* HomeViewController.m */,
-				4CFBC4A11E4619AB00DFA8C7 /* EventsViewController.h */,
-				4CFBC4A21E4619AB00DFA8C7 /* EventsViewController.m */,
 				4C4F45541E4372C40073CF80 /* Main.storyboard */,
-				4C4F45571E4372C40073CF80 /* Assets.xcassets */,
+				4C7FA63D1E476E9800C29145 /* Assets.xcassets */,
 				4C4F45591E4372C40073CF80 /* LaunchScreen.storyboard */,
 				4C4F455C1E4372C40073CF80 /* Info.plist */,
 				4C4F454B1E4372C40073CF80 /* Supporting Files */,
@@ -416,9 +441,9 @@
 				4CFBC4771E4616CA00DFA8C7 /* archery.gif in Resources */,
 				4CFBC47D1E4616CA00DFA8C7 /* canoe-slalom.gif in Resources */,
 				4CFBC4791E4616CA00DFA8C7 /* badminton.gif in Resources */,
+				4C7FA63E1E476E9800C29145 /* Assets.xcassets in Resources */,
 				4CFBC4911E4616CA00DFA8C7 /* judo.gif in Resources */,
 				4CFBC4811E4616CA00DFA8C7 /* cycling-road.gif in Resources */,
-				4C4F45581E4372C40073CF80 /* Assets.xcassets in Resources */,
 				4CFBC4991E4616CA00DFA8C7 /* table-tennis.gif in Resources */,
 				4CFBC4951E4616CA00DFA8C7 /* sailing.gif in Resources */,
 				4CFBC4961E4616CA00DFA8C7 /* shooting.gif in Resources */,
@@ -452,9 +477,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				4C4F45531E4372C40073CF80 /* HomeViewController.m in Sources */,
-				4CFBC4A31E4619AB00DFA8C7 /* EventsViewController.m in Sources */,
+				4C3D29A21E497B9900D19837 /* EventsViewController.m in Sources */,
+				4C3D29B11E49B47C00D19837 /* CountDownViewController.m in Sources */,
+				4C3D29AE1E49B45B00D19837 /* AboutViewController.m in Sources */,
+				4C3D29A51E497D1800D19837 /* EventsDetailViewController.m in Sources */,
 				4C4F45501E4372C40073CF80 /* AppDelegate.m in Sources */,
 				4C4F454D1E4372C40073CF80 /* main.m in Sources */,
+				4C3D29AB1E49B1B900D19837 /* ScheduleViewController.m in Sources */,
+				4C3D29A81E497DDB00D19837 /* EventsViewCell.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

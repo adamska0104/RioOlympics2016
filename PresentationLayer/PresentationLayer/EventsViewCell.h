@@ -1,5 +1,5 @@
 //
-//  EventsViewController.h
+//  EventsViewCell.h
 //  PresentationLayer
 //
 //  Created by adam on 2017/2/7.
@@ -8,6 +8,7 @@
 
 #import <UIKit/UIKit.h>
 
-@interface EventsViewController : UICollectionViewController
+@interface EventsViewCell : UICollectionViewCell
+@property (strong, nonatomic) IBOutlet UIImageView *imageView;
 
 @end

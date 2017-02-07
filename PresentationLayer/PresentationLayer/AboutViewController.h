@@ -1,14 +1,13 @@
 //
-//  EventsViewController.m
+//  AboutViewController.h
 //  PresentationLayer
 //
 //  Created by adam on 2017/2/7.
 //  Copyright © 2017年 ark. All rights reserved.
 //
 
-#import "EventsViewController.h"
+#import <UIKit/UIKit.h>
 
-
-@implementation EventsViewController
+@interface AboutViewController : UIViewController
 
 @end
