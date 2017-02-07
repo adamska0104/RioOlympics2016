@@ -13,6 +13,8 @@
 		4C3D29AB1E49B1B900D19837 /* ScheduleViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C3D29AA1E49B1B900D19837 /* ScheduleViewController.m */; };
 		4C3D29AE1E49B45B00D19837 /* AboutViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C3D29AD1E49B45B00D19837 /* AboutViewController.m */; };
 		4C3D29B11E49B47C00D19837 /* CountDownViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C3D29B01E49B47C00D19837 /* CountDownViewController.m */; };
+		4C3D29B41E49B87200D19837 /* BusinessLogicLayer.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4C3D29B21E49B87200D19837 /* BusinessLogicLayer.framework */; };
+		4C3D29B51E49B87200D19837 /* PersistenceLayer.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4C3D29B31E49B87200D19837 /* PersistenceLayer.framework */; };
 		4C4F454D1E4372C40073CF80 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C4F454C1E4372C40073CF80 /* main.m */; };
 		4C4F45501E4372C40073CF80 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C4F454F1E4372C40073CF80 /* AppDelegate.m */; };
 		4C4F45531E4372C40073CF80 /* HomeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C4F45521E4372C40073CF80 /* HomeViewController.m */; };
@@ -95,6 +97,8 @@
 		4C3D29AD1E49B45B00D19837 /* AboutViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AboutViewController.m; sourceTree = "<group>"; };
 		4C3D29AF1E49B47C00D19837 /* CountDownViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CountDownViewController.h; sourceTree = "<group>"; };
 		4C3D29B01E49B47C00D19837 /* CountDownViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CountDownViewController.m; sourceTree = "<group>"; };
+		4C3D29B21E49B87200D19837 /* BusinessLogicLayer.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = BusinessLogicLayer.framework; path = "../../../../../../../../Library/Developer/Xcode/DerivedData/RioOlympics2016-eslyqmpknwyegdcglcasiqgebvjz/Build/Products/Debug-iphonesimulator/BusinessLogicLayer.framework"; sourceTree = "<group>"; };
+		4C3D29B31E49B87200D19837 /* PersistenceLayer.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = PersistenceLayer.framework; path = "../../../../../../../../Library/Developer/Xcode/DerivedData/RioOlympics2016-eslyqmpknwyegdcglcasiqgebvjz/Build/Products/Debug-iphonesimulator/PersistenceLayer.framework"; sourceTree = "<group>"; };
 		4C4F45481E4372C40073CF80 /* PresentationLayer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PresentationLayer.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4C4F454C1E4372C40073CF80 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		4C4F454E1E4372C40073CF80 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -160,6 +164,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4C3D29B41E49B87200D19837 /* BusinessLogicLayer.framework in Frameworks */,
+				4C3D29B51E49B87200D19837 /* PersistenceLayer.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -183,6 +189,8 @@
 		4C4F453F1E4372C40073CF80 = {
 			isa = PBXGroup;
 			children = (
+				4C3D29B21E49B87200D19837 /* BusinessLogicLayer.framework */,
+				4C3D29B31E49B87200D19837 /* PersistenceLayer.framework */,
 				4C4F454A1E4372C40073CF80 /* PresentationLayer */,
 				4C4F45641E4372C40073CF80 /* PresentationLayerTests */,
 				4C4F456F1E4372C40073CF80 /* PresentationLayerUITests */,
@@ -206,20 +214,20 @@
 				4CFBC44C1E4616B200DFA8C7 /* events */,
 				4C4F454E1E4372C40073CF80 /* AppDelegate.h */,
 				4C4F454F1E4372C40073CF80 /* AppDelegate.m */,
-				4C3D29A61E497DDB00D19837 /* EventsViewCell.h */,
-				4C3D29A71E497DDB00D19837 /* EventsViewCell.m */,
+				4C4F45511E4372C40073CF80 /* HomeViewController.h */,
+				4C4F45521E4372C40073CF80 /* HomeViewController.m */,
 				4C3D29A01E497B9900D19837 /* EventsViewController.h */,
 				4C3D29A11E497B9900D19837 /* EventsViewController.m */,
+				4C3D29A61E497DDB00D19837 /* EventsViewCell.h */,
+				4C3D29A71E497DDB00D19837 /* EventsViewCell.m */,
 				4C3D29A31E497D1800D19837 /* EventsDetailViewController.h */,
 				4C3D29A41E497D1800D19837 /* EventsDetailViewController.m */,
 				4C3D29A91E49B1B900D19837 /* ScheduleViewController.h */,
 				4C3D29AA1E49B1B900D19837 /* ScheduleViewController.m */,
-				4C3D29AC1E49B45B00D19837 /* AboutViewController.h */,
-				4C3D29AD1E49B45B00D19837 /* AboutViewController.m */,
 				4C3D29AF1E49B47C00D19837 /* CountDownViewController.h */,
 				4C3D29B01E49B47C00D19837 /* CountDownViewController.m */,
-				4C4F45511E4372C40073CF80 /* HomeViewController.h */,
-				4C4F45521E4372C40073CF80 /* HomeViewController.m */,
+				4C3D29AC1E49B45B00D19837 /* AboutViewController.h */,
+				4C3D29AD1E49B45B00D19837 /* AboutViewController.m */,
 				4C4F45541E4372C40073CF80 /* Main.storyboard */,
 				4C7FA63D1E476E9800C29145 /* Assets.xcassets */,
 				4C4F45591E4372C40073CF80 /* LaunchScreen.storyboard */,
