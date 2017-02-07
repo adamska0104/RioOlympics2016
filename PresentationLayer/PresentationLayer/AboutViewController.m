@@ -1,4 +1,4 @@
-˜//
+//
 //  AboutViewController.m
 //  PresentationLayer
 //

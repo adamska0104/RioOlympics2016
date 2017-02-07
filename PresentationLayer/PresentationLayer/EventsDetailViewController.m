@@ -16,9 +16,9 @@
     self.imgEventIcon.image = [UIImage imageNamed:self.event.EventIcon];
     
     self.lblEventName.text = self.event.EventName;
-    self.txtViewBasicsInfo.text = self.event.BasicsInfo;
-    self.txtViewKeyInfo.text = self.event.KeyInfo;
-    self.txtViewOlympicInfo.text = self.event.OlympicInfo;
+    self.textViewBasicsInfo.text = self.event.BasicsInfo;
+    self.textViewKeyInfo.text = self.event.KeyInfo;
+    self.textViewOlympicInfo.text = self.event.OlympicInfo;
     
 }
 
