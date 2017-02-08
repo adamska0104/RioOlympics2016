@@ -172,7 +172,7 @@
                                     <constraint firstAttribute="width" constant="544" id="azZ-hk-R39"/>
                                     <constraint firstAttribute="height" constant="96" id="ulV-Qu-Xd6"/>
                                 </constraints>
-                                <mutableString key="text">Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.</mutableString>
+                                <string key="text">Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.</string>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
@@ -229,7 +229,7 @@
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                     </view>
-                    <tabBarItem key="tabBarItem" title="CountDown" image="CountDown-TabBarIcon" id="7D6-AX-rjf"/>
+                    <tabBarItem key="tabBarItem" title="CountDown" image="Events-TabBarIcon" id="7D6-AX-rjf"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="O3p-DD-Ykh" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
@@ -263,7 +263,7 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                         <prototypes>
-                            <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" id="kgA-wP-P9F">
+                            <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="Cell" id="kgA-wP-P9F">
                                 <rect key="frame" x="0.0" y="92" width="600" height="44"/>
                                 <autoresizingMask key="autoresizingMask"/>
                                 <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="kgA-wP-P9F" id="M28-Mg-Tbg">
@@ -344,7 +344,6 @@
     <resources>
         <image name="About-TabBarIcon" width="30" height="30"/>
         <image name="About-bg" width="320" height="480"/>
-        <image name="CountDown-TabBarIcon" width="30" height="30"/>
         <image name="CountDown-bg" width="320" height="480"/>
         <image name="Events-TabBarIcon" width="30" height="30"/>
         <image name="Home-TabBarIcon" width="30" height="30"/>
